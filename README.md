@@ -1,15 +1,17 @@
 # 📩 SMS Spam Classifier
 
+
 <p align="center">
   A Machine Learning-powered SMS Spam Detection System built with Python, Scikit-learn, NLP, and Streamlit.
 </p>
 
 <p align="center">
-  ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
-  ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-orange?logo=scikitlearn&logoColor=white)
-  ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-FF4B4B?logo=streamlit&logoColor=white)
-  ![Status](https://img.shields.io/badge/Status-Completed-success)
+  <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Scikit--learn-Machine%20Learning-orange?logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Streamlit-Web%20App-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Status-Completed-success" alt="Status" />
 </p>
+
 
 ## 📌 Overview
 
